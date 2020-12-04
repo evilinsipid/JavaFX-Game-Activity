@@ -1,3 +1,4 @@
 #!/bin/sh
 
-echo "hahah"
+cd JavaFXActivity
+cp SetupActivity.java DessertGame.java
