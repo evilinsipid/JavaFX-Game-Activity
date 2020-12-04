@@ -1,4 +1,5 @@
 #!/bin/sh
 
 cd JavaFXActivity
-cp SetupActivity.java DessertGame.java
+mv SetupActivity.class DessertGame.class
+mv SetupActivity.java~ DessertGame.java~
